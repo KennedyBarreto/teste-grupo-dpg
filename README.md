@@ -1,4 +1,3 @@
-<div align="center" id="top"> 
 
 
 <h1 align="center">Desafio JavaScript: Pesquisa de Palavras
